@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  background: rgb(243 244 246);
+}
+
+@theme {
+  --color-primary: white;
+  --color-secondary: black;
+  --color-blue: #2563eb;
+  --color-light: rgb(243 244 246);
+  --color-orange: rgb(249 115 22);
+}
+
+@theme {
+  --breakpoint-st: 26.5rem;
+  --breakpoint-lapst: 64rem;
+  --breakpoint-lapend: 87.5rem;
+}
