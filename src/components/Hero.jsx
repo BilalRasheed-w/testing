@@ -8,7 +8,7 @@ const Hero = () => {
       className="hero 
         md:bg-none pb-10 px-10 py-10 md:py-0 md:px-16  xl:px-16 md:h-[450px]
       lg:h-[500px] xl:h-[700px]  flex items-center lg:items-start justify-beween 
-      2xl:px-26  lg:bg-amber-400 xl:bg-red-500  "
+      2xl:px-26   "
     >
       <div
         className="hero_headings flex flex-col items-center text-center
@@ -56,7 +56,7 @@ const Hero = () => {
           className="rounded-full  cursor-pointer w-[600px]
           xl:w-fit h-[500px] 
           lg:h-[300px] lg:w-[400px] 
-          xl:h-[430px] " 
+          xl:h-[430px] "
         />
       </div>
     </div>
